@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39175545959",
+    "project_id": "ladm-u5-practica1-geomapatec",
+    "storage_bucket": "ladm-u5-practica1-geomapatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39175545959:android:506a1b26122f6ded5a20c2",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39175545959-lrtlgct2605dg6lv5ft8j7vg6j7obrdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKexiiXX7CJB-uO3uGw5sa5cRWniC24E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39175545959-lrtlgct2605dg6lv5ft8j7vg6j7obrdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
